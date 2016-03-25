@@ -1,0 +1,77 @@
+<resources>
+
+
+    <string name="app_name">运动能量</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="enter">登陆</string>
+    <string name="count">账户</string>
+    <string name="pass">密码</string>
+    <string name="action_settings">titel</string>
+    <string name="search">search</string>
+    <string name="menu">menu</string>
+    <string name="exit">exit</string>
+    <string name="set_id">设置个人ID</string>
+    <string name="note">健身笔记</string>
+    <string name="time">定时提醒</string>
+    <string name="colorie">卡路里</string>
+    <string name="exitset">你确定要清除密码退出吗？</string>
+    <string name="bmi_set">BMI测试</string>
+    <string name="bmi_button">计算BMI</string>
+    <string name="food_colorie">食物卡路里</string>
+     <string name="note_set">运动计划</string>
+     <string name="notify">通知</string>
+    <string name="num1">1</string>
+    <string name="num2">2</string>
+    <string name="num3">3</string>
+    <string name="num4">4</string>
+    <string name="num5">5</string>
+    <string name="num6">6</string>
+    <string name="num7">7</string>
+    <string name="num8">8</string>
+    <string name="num9">9</string>
+    <string name="num0">0</string>
+     <string name="clear">清除</string>
+    <string name="my_center">个人中心</string>
+    <string name="my_title">运动能量</string>
+    <string name="sport_center">运动中心</string>
+    <string name="food_center">健康管理</string>
+    <string name="bmishow">计算结果</string>
+    <string name="bmi_height">请输入你的身高</string>
+    <string name="bmi_width">请输入你的体重</string>
+    <string name="chest_exercise">胸部训练</string>
+    <string name="leg_exercise">腿部训练</string>
+    <string name="back_exercise">背部训练</string>
+    <string name="shoulder_exercise">肩部训练</string>
+    
+    <string-array name="food">
+    <item>rice 346卡路里</item>
+   <item>apple 52卡路里</item>
+   <item>cabbage 17卡路里</item>
+   <item>chicken 167卡路里</item>
+   <item>oat 367卡路里</item>
+   <item>pork 147卡路里</item>
+   <item>potato 76卡路里</item>
+   <item>rice 346卡路里</item>
+   <item>apple 52卡路里</item>
+   <item>cabbage 17卡路里</item>
+   <item>chicken 167卡路里</item>
+   <item>oat 367卡路里</item>
+   <item>pork 147卡路里</item>
+   <item>potato 76卡路里</item>
+   <item>rice 346卡路里</item>
+   <item>apple 52卡路里</item>
+   <item>cabbage 17卡路里</item>
+   <item>chicken 167卡路里</item>
+   <item>oat 367卡路里</item>
+   <item>pork 147卡路里</item>
+   <item>potato 76卡路里</item>
+   <item>rice 346卡路里</item>
+   <item>apple 52卡路里</item>
+   <item>cabbage 17卡路里</item>
+   <item>chicken 167卡路里</item>
+   <item>oat 367卡路里</item>
+   <item>pork 147卡路里</item>
+   <item>potato 76卡路里</item>
+    </string-array>
+        
+</resources>
